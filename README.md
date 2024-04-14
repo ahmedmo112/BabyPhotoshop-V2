@@ -6,7 +6,7 @@ You can refer to this Youtube video for Visual Studio installation instructions 
 
 https://youtu.be/HcxlYkU8aY0?si=4FY8TvJyoPdvWDqY
 
-Then clone the repo into your own machine and open it in Visual Studio, head to Project/BabyPhotoshop Properties -> C/C++ -> General, in additional include directories add the path of Image Class file cloned with the project.
+Then clone the repo into your own machine and open it in Visual Studio, head to Project/BabyPhotoshop Properties, then expand C/C++ -> General, in additional include directories add the path of Image Class file cloned with the project.
 
 ## Steps To Start New GUI app from start
 1- Open VS
