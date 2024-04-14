@@ -34,7 +34,7 @@ Then clone the repo into your own machine and open it in Visual Studio, head to 
 
 10- from side menu click on linker > Command line
 
-11- then at additional option add /FORCE:MULTIPLE (only if you are using additional dependencies that redefines variables and code defined in the framework).
+11- then at additional option add /FORCE:MULTIPLE (only if you are using additional include directories that redefines variables and code defined in the framework).
 
 12- click on Ok 
 
