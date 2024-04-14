@@ -65,6 +65,10 @@ Then clone the repo into your own machine and open it in Visual Studio, head to 
 ```
 20- Now return to MyForm.h [Design] and start Drag and Drop elements
 
+## Contributors
+* **Ahmed M. Hany** - [ahmedmo112](https://github.com/ahmedmo112)
+* **Mohamed Ehab** - [MoEhab27](https://github.com/MoEhab27)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
